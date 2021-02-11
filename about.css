@@ -3,6 +3,7 @@
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
+	
 }
 html {
 	font-size: 10px;
@@ -12,6 +13,7 @@ html {
 a {
 	text-decoration: none;
 }
+
 .container {
 	min-height: 100vh;
 	width: 100%;
@@ -438,11 +440,11 @@ p {
 #about .col-left .about-img::after {
 	content: '';
 	position: absolute;
-	left: -33px;
-	top: 33px;
+	left: -15px;
+	top: 15spx;
 	height: 98%;
 	width: 98%;
-	border: 2px solid  #FF7000;
+	border: 1.5px solid  #FF7000;
 	z-index: -1;
 }
 /* End About Section */
