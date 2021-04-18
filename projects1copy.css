@@ -22,6 +22,12 @@ a {
 em {
 	color: f;
 }
+a {
+	color: #FF7000;	
+}
+li {
+	color: #FF7000;
+}
 .ccontainer {
     width: 100%;
     display: flex;
